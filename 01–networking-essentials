@@ -1,0 +1,57 @@
+## In-Class Assignment 1
+
+### Task 1: Network Basics
+
+1. Network Types:
+
+[Research and explain the differences between LAN (Local Area Network), WAN (Wide Area Network), and MAN (Metropolitan Area Network)]
+
+[LAN - Local Area Network]
+- Localized geographic areas like office buildings that provide high-speed, low-latency connections
+
+[MAN - Metropolitan Area Network]
+- Spanning larger regions connecting multiple LANs in public regions like universities and several office buildings.
+
+[WAN - Wide Area Network]
+- Spanning boarder regions connecting multiple LAN's over long distances, slow-speed, high-latency connections.
+
+2. Network Components:
+
+[Describe the roles of the following components]
+
+[Router: How does it route data between networks]
+A router is used to route network traffic between nodes, creating secure communication between networks.
+
+[Switch: How does it forward data within a network]
+By establishing direct communication and reducing congestion through specific topologies and policies (trunking, routing policies, 
+
+[Hub: What is its function, and why is it less commonly used today]
+Used to connect multiple devices to share data. A switch and router have taken it's place with more effective results.
+
+### Task 2: Cabling and Physical Connectivity
+
+1. Cable Types:
+
+[Compare and contrast the following cable types]
+
+[Twisted-Pair Cable (Cat-5e, Cat-6): Discuss their use in Ethernet networks]
+- Most commonly used cables used to connect devices and workstations between one another to create a connection to a service such as internet access and file transfer 
+
+[Coaxial Cable (RG-6, RG-8): Explain their historical significance]
+- Commonly used to connect satellite dishes to TVs
+
+[Fiber-Optic Cable: Highlight its advantages and applications]
+- Advantages are high bandwidth, secure communication, and resistant to environmental factors
+
+2. Cable Installation:
+
+[Provide step-by-step instructions for installing twisted-pair cables (e.g., terminating
+RJ-45 connectors)]
+Step 1. Cut the jacket to expose the cables
+Step 2. Separate and pair them accordingly
+Step 3. Insert them into the RJ-45 connector
+Step 4. Crimp the cables and RJ-45 connector to complete the cable
+
+[Explain the importance of cable management and avoiding cable bends]
+- Cable bends can damage the internal cables preventing them from proper data transfering.
+- Keeping your cables organized can assist in time management when troubleshooting while offering a visually professional workstation.
