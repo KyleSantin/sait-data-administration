@@ -20,10 +20,10 @@
 [Describe the roles of the following components]
 
 [Router: How does it route data between networks]
-A router is used to route network traffic between nodes, creating secure communication between networks.
+A router is used to route network traffic between networks, be it multiple LANs and WAN networks.
 
 [Switch: How does it forward data within a network]
-By establishing direct communication and reducing congestion through specific topologies and policies (trunking, routing policies, 
+By establishing direct communication and reducing congestion through specific topologies and policies by using it's MAC Address Table.
 
 [Hub: What is its function, and why is it less commonly used today]
 Used to connect multiple devices to share data. A switch and router have taken it's place with more effective results.
@@ -35,13 +35,16 @@ Used to connect multiple devices to share data. A switch and router have taken i
 [Compare and contrast the following cable types]
 
 [Twisted-Pair Cable (Cat-5e, Cat-6): Discuss their use in Ethernet networks]
-- Most commonly used cables used to connect devices and workstations between one another to create a connection to a service such as internet access and file transfer 
+- Cat-5e - Most common and sufficent for home and small business networks. A cheaper and flexible option for quick installations.
+- Cat-6 - tighter twisted pairs and some have the addition of a plastic spine in the center to improve the negation 
+of crosstalk and electromagnetic interference. Best suited for enterprise networks and heavier data transfers. 
+Not as flexible as Cat-5e and more expensive.
 
 [Coaxial Cable (RG-6, RG-8): Explain their historical significance]
-- Commonly used to connect satellite dishes to TVs
-
+- RG-6 - Was commonly used to connect satellite dishes to TVs
+- RG-8 - Was the original cable for internet connections along side bus topologies
 [Fiber-Optic Cable: Highlight its advantages and applications]
-- Advantages are high bandwidth, secure communication, and resistant to environmental factors
+- Advantages are high bandwidth, secure communication, and resistant to environmental factors such as electromagnetic interference
 
 2. Cable Installation:
 
