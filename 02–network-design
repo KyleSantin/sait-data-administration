@@ -1,3 +1,69 @@
 ## Network Interface and Models
 
 Flash cards for the days lesson: https://www.revisely.com/flashcards/decks/R1FKUj
+
+Scavenger Hunt Items:
+
+1. MAC Address
+
+# Find the MAC address of your computer or smartphone.
+
+[CMD > /ipconfig /all] is the command prompt command to locate relavent information pertaining to 
+your computer's identification, like your MAC Address
+
+# Explain what a MAC address is and how it’s used in networking.
+
+A MAC Address is the assigned identification to your physical device assigned during manufacturing. The first 3 segments
+are associated to the manufacturer and the remainder 3 are by the vendor.
+
+2. Router Brands
+
+# Identify three popular router brands (e.g., Cisco, TP-Link, Netgear).
+
+1. D-Link
+2. Cisco
+3. Huawei
+
+#Discuss the features and differences between these brands.
+
+1. Broadly known for commercial products, cost-effective, wide variety of products
+2. A focus in enterprise markets with proprietary devices
+3. Integrated cloud-based management, commerical products in telecommunication
+
+3. Network Troubleshooting
+
+# Describe three common network troubleshooting techniques (e.g., ping, traceroute,
+ipconfig).
+
+ping - you can ping the loopback address (127.0.0.1) to ensure your device to communicating with the local network.
+traceroute - to track data packet routes and possible bottlenecks in the network.
+ipconfig - you would use ipconfig commands like /release, /renew, /flushdns for various troubleshooting reasons. You may want
+to reset the ip address assigned through DHCP if there is a discrepency in the assigned ip address and make a renew request.
+OR /flushdns if there is a corruption in the DNS cache that is preventing you from accessing the network.
+
+# Share a real-world scenario where you’d use each technique.
+Only in school labs
+
+4. Network Topologies
+
+# Draw diagrams representing three network topologies: bus, star, and mesh.
+# Discuss the advantages and disadvantages of each topology.
+
+# bus
+advantages - wellknown device as it is older so troubleshooting issues is well documented. 
+disadvantages - If the common cable fails then the whole network fails
+# star 
+advantages - Easy to setup, each node is connected to a switch/hub seperately which means if one node goes down 
+the rest are still active, and it is easy to isolate and troubleshoot issues.
+disadvantages - if the switch/hub goes down the whole network fails, and the performance is based of a single switch/hub.
+# mesh
+- advantages - easy to isolate and troubleshoot while maintaining performance uptime, data is reliably transferred as
+it is transported through specific channels
+- disadvantages - installation is complex and maintanence cost is high
+
+5. Network Protocols
+
+# Choose one network protocol (e.g., HTTP, FTP, SMTP).
+# Describe its purpose and provide an example of when it's used.
+
+ftp - used in everyday office work to transfer, upload, and download files between workstations.
