@@ -7,26 +7,26 @@ This repository is a curated collection of **hands-on labs, diagrams, and config
 ---
 ## Repository Labs
 
-# **[02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings)**
+**[02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings)**
 
 ## Repository Modules
 
-# [01–networking-essentials](https://github.com/KyleSantin/sait-data-administration/blob/main/01%E2%80%93networking-essentials)
-# [02–network-design](https://github.com/KyleSantin/sait-data-administration/blob/main/02%E2%80%93network-design)
-# [03–network-signals-cabling]
-# [04-network-adapter-cards]
-# [05-network-components]
-# [06-network-architectures]
-# [07-windows-os-fundamentals]
-# [08-client-server-concepts]
-# [09-client-server-os-features]
-# [10-windows-admin-tools]
-# [11-windows-user-accounts]
-# [12-group-strategy
-# [13-user-group-standardization]
-# [14-shared-folders-ntfs-fat]
-# [15-dns-setup]
-# [16-dhcp-setup]
+[01–networking-essentials](https://github.com/KyleSantin/sait-data-administration/blob/main/01%E2%80%93networking-essentials)
+[02–network-design](https://github.com/KyleSantin/sait-data-administration/blob/main/02%E2%80%93network-design)
+[03–network-signals-cabling]
+[04-network-adapter-cards]
+[05-network-components]
+[06-network-architectures]
+[07-windows-os-fundamentals]
+[08-client-server-concepts]
+[09-client-server-os-features]
+[10-windows-admin-tools]
+[11-windows-user-accounts]
+[12-group-strategy
+[13-user-group-standardization]
+[14-shared-folders-ntfs-fat]
+[15-dns-setup]
+[16-dhcp-setup]
 ---
 
 ## Why This Repo Matters
