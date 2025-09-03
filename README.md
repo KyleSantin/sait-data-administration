@@ -5,6 +5,9 @@ This repository is a curated collection of **hands-on labs, diagrams, and config
 **Data Administration Certificate program at SAIT (Calgary, AB)**.
 
 ---
+## Repository Labs
+
+[02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings)
 
 ## Repository Modules
 
