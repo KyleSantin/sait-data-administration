@@ -9,7 +9,7 @@ This repository is a curated collection of **hands-on labs, diagrams, and config
 ## Repository Modules
 
 ### [01–networking-essentials](https://github.com/KyleSantin/sait-data-administration/blob/main/01%E2%80%93networking-essentials)
-### [02–network-design]
+### [02–network-design](https://github.com/KyleSantin/sait-data-administration/blob/main/02%E2%80%93network-design)
 ### [03–network-signals-cabling]
 ### [04-network-adapter-cards]
 ### [05-network-components]
