@@ -7,7 +7,7 @@ This repository is a curated collection of **hands-on labs, diagrams, and config
 ---
 ## Repository Labs
 
-[02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings)
+**[02-lab-network-adapters-settings]**(https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings)
 
 ## Repository Modules
 
