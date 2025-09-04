@@ -20,12 +20,12 @@ This repo demonstrates my ability to:
 
 ## Repository Labs
 
-### [02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings)
+### [02-lab-network-adapters-settings]([https://github.com/KyleSantin/sait-data-administration/blob/main/02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab1-network-adapters-settings))
 
 ## Repository Modules and Activities
 
-### [01–networking-essentials](https://github.com/KyleSantin/sait-data-administration/blob/main/01%E2%80%93networking-essentials)
-### [02–network-design](https://github.com/KyleSantin/sait-data-administration/blob/main/02%E2%80%93network-design)
+### [01–networking-essentials]([https://github.com/KyleSantin/sait-data-administration/blob/main/01%E2%80%93networking-essentials](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials))
+### [02–network-design]([https://github.com/KyleSantin/sait-data-administration/blob/main/02%E2%80%93network-design](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/02-network-design))
 ### [03–network-signals-cabling]
 ### [04-network-adapter-cards]
 ### [05-network-components]
