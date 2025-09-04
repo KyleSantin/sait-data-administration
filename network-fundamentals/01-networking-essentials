@@ -1,1 +1,20 @@
-## Networking Essentials
+# Networking Essentials
+
+**Flash Cards** for the days lesson: [Flashcards](https://www.revisely.com/flashcards/decks/x8gXxI)
+
+## Overview
+Exploring "LAN" vs "WAN" vs "PAN", Routers, Switches, HUBs, and different cable types
+
+## Key Topics Covered
+**LAN, WAN, PAN** - speeds, scope, latency differences, purpose
+**Network Devices** - Routers, Switches, Hubs (why they are obsolete)
+**Cables** - Differences between Cat5e, Cat6, RG-6, RG-8, coaxial history, optic fiber advantages
+**Hands-on Tasks** - Terminating RJ-45 twisted pair
+**Best Practice** - Cable management and why we prevent cable bends
+
+## Key Takeaway
+- Understanding the different use cases for network types given the geographic scope needing to be covered
+- The function of network devices and their evolution
+
+## Reflection
+I have a better understanding of network devices and their place within a topology and how they play a role in network types
