@@ -1,0 +1,13 @@
+(Assignment)[https://docs.google.com/document/d/1xiEbRmXeyn5vp1ds5cZrv0gLo-c5dzSdjs_6j3FRsKE/edit?usp=sharing]
+
+Procedure
+# Capture a network packet and analyze the contents. Use the OSI model and explain your findings
+1. Capture a Hello-Client packet and match each section with the OSI model.
+2. Identify each section of the capture and explain how they are in reference to each section of a 
+frame/packet/segment and document your findings
+
+Key Takeaway
+1. Using Wireshark's filter is an easy way to locate the packet you are analyzing. ie: _ws.col.info contains "Client Hello"
+2. Each layer of the capture easily identifies the sections that make up the frame/packet/segment.
+3. I can see how you would apply this to identifying network traffic 
+(long frame durations, unauthorized frames, bottlenecks with slow performance).
