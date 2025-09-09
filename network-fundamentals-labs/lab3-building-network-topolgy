@@ -1,0 +1,22 @@
+https://docs.google.com/presentation/d/1Z65eUC-DCx21q5F_Ok4VETEBuh7AGQJ1JxJIQlbPy1U/edit?usp=sharing
+
+Procedure
+# Create a network topology that would support 10 employees within an office setting. Create, connect, and assign devices
+within the network and explain the advantages and disadvantages the network may face.
+
+# I created a combination of mesh and star topology with workstations and switches connected through a mesh are found
+on two different office floors and are connected by a router. This creates a star topology between switches and router
+connecting both floors of the office.
+
+MESH
+# Advantages: Mesh topology with end devices and switches makes it easy to troubleshoot failures in the network as well
+as keeping the network up for the majority of the connected devices. Connecting two switches together ensures there is 
+no single failure in the network at this level and allows traffic to continue transmitting to the router.
+
+# Disadvantages: Scalability and cost with a Mesh Topology is difficult as the network grows.
+
+STAR
+# Advantages: It is easy to setup and locate faults within the network. Scalability is easily handled by adding the 
+necessary devices to the router.
+
+# Disadvantages: Network uptime is not as strong as a mesh topology as it has a single failure point (router).
