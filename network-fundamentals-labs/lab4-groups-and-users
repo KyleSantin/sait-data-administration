@@ -1,1 +1,10 @@
+https://docs.google.com/document/d/1LcSTzMKikhFOsei04usUykVPJDcWGgs8KPJ3JR1N2KY/edit?usp=sharing
 
+Procedure
+# Navigate the Active Directory Users and Computers, create users, edit permissions, enable file sharing and access
+them through inherited permissions.
+
+Key Takeaway
+# The amount of user, group, global, and inherited permissions that can be controlled is robust. A good understanding of
+navigation through these features will be a great asset to troubleshooting user issues when access is not permitted or
+ensuring new users are given the correct permissions to prevent inital issues in regard to permission access.
