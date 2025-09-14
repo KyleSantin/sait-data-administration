@@ -36,7 +36,7 @@ This repo demonstrates my ability to:
 ### [10-windows-admin-tools]
 ### [11-windows-user-accounts]
 ### [12-group-strategy
-### [13-user-group-standardization]
+### [13-user-group-standardization](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab4-groups-and-users)
 ### [14-shared-folders-ntfs-fat]
 ### [15-dns-setup]
 ### [16-dhcp-setup]
