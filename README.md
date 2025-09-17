@@ -20,23 +20,9 @@ This repo demonstrates my ability to:
 
 ## Repository Labs
 
-### [02-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials)
+### Network Fundamentals
 
-## Repository Modules and Activities
-
-### [01–networking-essentials](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials)
-### [02–network-design](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/02-network-design)
-### [03–network-signals-cabling]
-### [04-network-adapter-cards]
-### [05-network-components]
-### [06-network-architectures]
-### [07-windows-os-fundamentals]
-### [08-client-server-concepts]
-### [09-client-server-os-features]
-### [10-windows-admin-tools]
-### [11-windows-user-accounts]
-### [12-group-strategy
-### [13-user-group-standardization](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab4-groups-and-users)
-### [14-shared-folders-ntfs-fat]
-### [15-dns-setup]
-### [16-dhcp-setup]
+### [01-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials)
+### [02-wireshark-osi-reference](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab2-wireshark-osi-reference)
+### [03-building-network-topolgoy](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab3-building-network-topolgy)
+### [04-groups-and-users](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab4-groups-and-users)
