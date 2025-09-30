@@ -22,7 +22,11 @@ This repo demonstrates my ability to:
 
 ### Network Fundamentals
 
-### [01-lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials)
-### [02-wireshark-osi-reference](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab2-wireshark-osi-reference)
-### [03-building-network-topolgoy](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab3-building-network-topolgy)
-### [04-groups-and-users](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab4-groups-and-users)
+### [lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials)
+### [wireshark-osi-reference](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab2-wireshark-osi-reference)
+### [building-network-topolgoy](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab3-building-network-topolgy)
+### [groups-and-users](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab4-groups-and-users)
+
+## Oracle Fundamentals
+
+### [sql-basics](https://github.com/KyleSantin/sait-data-administration/blob/main/oracle-fundamentals/sql-basics)
