@@ -1,12 +1,12 @@
--- Utilizing a course DB to learn SQL clauses and operations
+## Utilizing a course DB to learn SQL clauses and operations
 
 
--- Practical Exercises:
--- 1. Retrieve the first 5 rows from the product_inventory table.
--- 2. Retrieve products with a price greater than 100.
--- 3. Retrieve products whose category contains 'Electronics'.
--- 4. Retrieve products supplied by 'GadgetWorld'.
--- 5. Use an ampersand substitution variable to prompt for a supplier and return all matching products.
+## Practical Exercises:
+1. Retrieve the first 5 rows from the product_inventory table.
+2. Retrieve products with a price greater than 100.
+3. Retrieve products whose category contains 'Electronics'.
+4. Retrieve products supplied by 'GadgetWorld'.
+5. Use an ampersand substitution variable to prompt for a supplier and return all matching products.
 
 SELECT * FROM product_inventory WHERE ROWNUM <= 5;
 SELECT * FROM product_inventory WHERE price >= 100;
@@ -15,12 +15,12 @@ SELECT * FROM product_inventory WHERE supplier = 'GadgetWorld'
 SELECT * FROM product_inventory WHERE supplier = &supplier_name
 
 
--- Practical Exercises:
--- 1. Retrieve the first 7 rows from the customer_orders table.
--- 2. Retrieve orders where the total_amount is greater than 300.
--- 3. Retrieve orders where the customer_name contains 'Jack'.
--- 4. Retrieve orders made in February 2023.
--- 5. Use an ampersand substitution variable to prompt for a product and return all matching orders.
+## Practical Exercises:
+1. Retrieve the first 7 rows from the customer_orders table.
+2. Retrieve orders where the total_amount is greater than 300.
+3. Retrieve orders where the customer_name contains 'Jack'.
+4. Retrieve orders made in February 2023.
+5. Use an ampersand substitution variable to prompt for a product and return all matching orders.
   
 SELECT * FROM customer_orders WHERE ROWNUM <= 7;
 SELECT * FROM customer_orders WHERE total_amount > 300;
@@ -29,12 +29,12 @@ SELECT * FROM customer_orders WHERE order_date BETWEEN DATE '2023-02-01' AND DAT
 SELECT * FROM customer_orders WHERE product = &product;
 
 
--- Practical Exercises
--- 1. Retrieve the first 12 rows from the employees table.
--- 2. Retrieve employees with a salary greater than 50,000.
--- 3. Retrieve employees whose first name starts with 'E'.
--- 4. Retrieve employees hired after January 1, 2020.
--- 5. Use an ampersand substitution variable to prompt for a department_id and return all matching employees
+## Practical Exercises
+1. Retrieve the first 12 rows from the employees table.
+2. Retrieve employees with a salary greater than 50,000.
+3. Retrieve employees whose first name starts with 'E'.
+4. Retrieve employees hired after January 1, 2020.
+5. Use an ampersand substitution variable to prompt for a department_id and return all matching employees
   
 SELECT * FROM employees WHERE employees <= 12;
 SELECT * FROM employees WHERE salary > 50000;
