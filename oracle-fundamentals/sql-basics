@@ -11,7 +11,7 @@
 8. LIMIT / OFFSET / FETCH (DB-specific) → restrict output
 
 ##SQL Query Logical Processing Order
-1. FROM
+1. FROM (JOIN ... ON)
 2. WHERE
 3. GROUP BY
 4. HAVING
