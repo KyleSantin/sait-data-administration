@@ -1,0 +1,32 @@
+-- Concepts explored are JOIN and UNION I have learnt.
+
+-- JOIN
+--- INNDER JOIN - returns only the rows where there is a match in both tables
+
+###
+SELECT *
+FROM orders o
+INNER JOIN customers c
+ON o.customer_id = c.customer_id;
+
+Orders      Customers
+[1,2,3]    [2,3,4]
+
+INNER JOIN: [2,3]  ← only matching IDs
+###
+
+--- LEFT JOIN (LEFT OUTER JOIN) - RIGHT JOIN (RIGHT OUTER JOIN) is similar but flipped
+###
+SELECT *
+FROM orders o
+LEFT JOIN customers c
+ON o.customer_id = c.customer_id;
+
+Orders      Customers
+[1,2,3]  sa
+LEFT JOIN: [1(NULL), 2, 3]
+###
+
+--- FULL JOIN - Returns all rows from both tables, with NULLs where no mathces exists
+
+-- UNION
