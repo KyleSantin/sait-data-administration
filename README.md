@@ -30,3 +30,4 @@ This repo demonstrates my ability to:
 ## Oracle Fundamentals
 
 ### [sql-basics](https://github.com/KyleSantin/sait-data-administration/blob/main/oracle-fundamentals/sql-basics)
+### [01-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/oracle-fundamentals/01-assignment)
