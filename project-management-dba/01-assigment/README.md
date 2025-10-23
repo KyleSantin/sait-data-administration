@@ -1,1 +1,3 @@
-01-assignment text and word file
+Assignment 1
+
+Develop a development charter based off the scenario given
