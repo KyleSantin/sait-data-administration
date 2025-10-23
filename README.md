@@ -22,7 +22,7 @@ This repo demonstrates my ability to:
 
 ---
 
-### [Network Fundamentals](https://github.com/KyleSantin/sait-data-administration/tree/main/network-fundamentals-labs)
+## [Network Fundamentals](https://github.com/KyleSantin/sait-data-administration/tree/main/network-fundamentals-labs)
 
  ### [lab-network-adapters-settings](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals/01-networking-essentials)
  ### [wireshark-osi-reference](https://github.com/KyleSantin/sait-data-administration/blob/main/network-fundamentals-labs/lab2-wireshark-osi-reference)
@@ -39,6 +39,6 @@ This repo demonstrates my ability to:
 
 ---
 
-### [Project Management for DBA](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba)
+## [Project Management for DBA](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba)
 
  ### [01-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba/01-assigment)
