@@ -31,3 +31,5 @@ This repo demonstrates my ability to:
 
 ### [sql-basics](https://github.com/KyleSantin/sait-data-administration/blob/main/oracle-fundamentals/sql-basics)
 ### [01-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/oracle-fundamentals/01-assignment)
+### [02-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/oracle-fundamentals/02-assignment)
+### [03-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba)
