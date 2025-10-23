@@ -1,0 +1,113 @@
+### PROJECT INFORMATION:
+
+Scope & WBS Exercise
+Temporary Employment Agency (TEA) is a small employment agency that matches companies with a need for qualified temporary 
+workers with individuals seeking temporary employment. They have 3 agents, a receptionist, and the owner/manager, and have 
+been in business for a few years without having to develop a consistent system to store and retrieve information. 
+They currently work with about 50 client companies, and each company typically works with one preferred agent. 
+Each agent has his or her way of keeping track of the companies and their job openings: Access, Excel spreadsheets, or 
+just notes.
+
+They also do not have a good way of storing comprehensive data of the individual talent they placed in the past. 
+A couple years ago there was an attempt to collect temporary workers data in one Access database, but after that agents 
+would sometimes forget to update the information, so the records are not quite up to date.
+
+Companies who need a temporary qualified worker provide a list of requirements for the position, like 
+“3 years of Oracle DBA experience” or “Microsoft C# Certificate”. Some requirements are necessary, and some are optional. 
+The agency first uses internal knowledge to identify potential candidates, and if they cannot find one, they post a job 
+opening on various media. Then they create a short list of the candidates who best match the requirements and pass them 
+over to the company.
+
+With the current economic downturn, TEA is receiving a lot of inquiries from individuals with high qualifications who 
+are seeking employment. They perceive this as a growth opportunity. They would like to develop a website that posts open 
+positions from the client companies. Actually, they would like the companies to register themselves and use protected 
+website to manage their own openings. The individuals seeking employment would browse the openings and respond to those 
+that spark their interest. The agents would still interview the most promising candidates and send to the company just a 
+few that best match the requirements.
+
+The company currently operates on several HP laptops with Windows 10 operating system, and of course some network 
+structure that provides a firewall and access to the Internet. They do not use any specialized software.
+
+You were offered an opportunity to develop a database and a website for them. 
+
+### ASSIGNMENT
+
+# Temporary Employment Agency Database & Website Project. (TEADWP)
+Tea is a Temporary Employment Agency that has been in business for a few years that is struggling to properly store and 
+manage a database of talents looking for temporary employment with their list of client businesses who are looking for 
+employees.
+
+This project’s goal is to develop a database to properly store and filter talent submission for specific job postings 
+that are found on a TEA’s client websites and be able to accurately recommend potential hires to their clients from a 
+newly developed website.
+
+Currently TEA does not have a reliable database storage method and with limited employees under their umbrella 
+(3 agents, 1 receptionist, 1 owner) a fairly easy method of daily task executables and low maintenance options is 
+needed to achieve their goal in a consistently accurate manner.
+
+The project is aiming to implement a database with searchable metrics that pertain to job posting requirements, 
+a consistent update of the database and backup recovery plan, and 3rd party website API integration. It will also 
+consider possibility of scalable growth in both clientele and internal growth. 
+
+The deliverables for this project will include: newly developed website, database schema, documentation procedures, 
+server(s) (database/web hosting, data backup)
+
+What will be included in this project will be a new website with API integration, index reporting for postings found 
+on 3rd party websites (clients), and import and export features that support 
+CSV, XLSX/XLS, TXT, XML, HTML, PDF, SYLK, LOG, login access and OAuth support for users, supportive documentation for 
+users (including frequently asked questions and email support), database software, training documentation, 
+hardware (server (database/web))
+
+The project will not include features such as: files type import/export outside of scope (Access, Excel, Notepad), 
+post-consultation after project completion (set date TBD), consultation with TEA clientele
+ 
+The conditions that will be met to achieve a completed project will include:
+ 
+Website
+-	Communication with 3rd party websites (API access) and create data tables
+-	Manage user queries (import/export files)
+
+Database
+-	Retrieve data from TEA’s website and store, update, and backup data.
+-	Add and remove users, read/write access permissions, update permissions
+ 
+Stakeholders:
+-	TEA company and employees 
+#	Responsibilities: TEA is our client company staff that matches other companies with a need for qualified temporary workers with individuals seeking temporary employment
+-	TEA’s clients. 
+#	Responsibilities: They will be interacting with the database as TEA’s client companies
+-	Individual Job seekers 
+#	Responsibilities: They will be interacting with the website to seek employers for hiring. 
+Constraints for the project may include:
+Time: Deadlines for project milestones, limited staff time
+Resources: outdated hardware/software, lack of staff training if there are hardware/software upgrades, and the amount of employees available during live public service at project completion to properly manage resources
+Budgets: Depending on hardware/software requirements, server uptime costs, user customer support requirements 
+ 
+The assumptions we have as we begin this project are:
+-	We have access to the data for implementation
+-	We will have access to all resources required for the database development and implementation 
+Risks:
+-	Project deadlines could be missed due to delay or poor planning
+-	Solution: Track your progress weekly to be able to adjust under any circumstances if a delay were to happen
+-	Budget risks: the cost of the project could go beyond the initial budget that had been planned beforehand
+-	Solution: Review costs regularly and get approvals before extra spending.
+-	Resource: Lack of skilled employees/ not enough of employees which could lead to overwhelming /overload task
+-	Solution: Provide the necessary training to the employees which then they could better understand the tasks 
+Project Timeline
+# Website
+## Frontend 
+-	Feature development
+-	UI/UX
+-	Design revision 
+-	UI/UX finalization
+## Backend
+-	Website feature implementation 
+-	Server hosting (database/web/domain) development 
+# Database
+-	Workload-balance uptime metrics met
+-	Database maintenance procedure and documentation completed
+
+Resources will be allocated according to stakeholder requirements and project needs including database management (physical/digital) and budget allocation between milestone expectations.
+
+Role: Owner/Manager				Signature:                                                 	Date:
+Name:
