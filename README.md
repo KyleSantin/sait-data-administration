@@ -42,3 +42,9 @@ This repo demonstrates my ability to:
 ## [Project Management for DBA](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba)
 
  ### [01-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba/01-assigment)
+ ### [02-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba/02-assignment)
+ ### [03-assignment](https://github.com/KyleSantin/sait-data-administration/tree/main/project-management-dba/03-assignment)
+
+ ---
+
+ ## [Data Modeling and RDB Design]()
